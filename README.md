@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm from Brazil, specifically from Rio Grande do Sul.<br>📚 Currently learning Java, databases, AWS, and networking.<br>🎯 My goal is to enter the development field and gain my first professional experience.<br>🎲 Fun fact: I enjoy One Piece, soccer, and snooker.</p>
+<p align="left">✨ I'm from Brazil, specifically from Rio Grande do Sul.<br>📚 Currently learning Java, databases, AWS, and networking.<br>🎯 My goal is to enter the development field and gain my first professional experience.<br>🎲 Fun fact: I enjoy One Piece, soccer and snooker.</p>
 
 ###
 
