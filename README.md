@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pedro and I'm a aspiring back-end developer ☕.</p>
+<p align="left">My name is Pedro and I'm a development student focused on back-end 💻.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm from Brazil, specifically from Rio Grande do Sul.<br>📚 Currently learning Java, databases, AWS, and networking.<br>🎯 My goal is to enter the development field and gain my first professional experience.<br>🎲 Fun fact: I enjoy One Piece, soccer, and snooker.</p>
+<p align="left">✨ I'm from Brazil, specifically from Rio Grande do Sul.<br>📚 Currently learning Java and databases.<br>🎯 My goal is to enter the development field and gain my first professional experience.<br>🎲 Fun fact: I enjoy One Piece, soccer, and work on a hospital in my city.</p>
 
 ###
 
@@ -21,11 +21,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
@@ -42,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
