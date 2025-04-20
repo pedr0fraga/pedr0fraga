@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pedro and I'm a development student focused on back-end 💻.</p>
+<p align="left">My name is Pedro, and I'm a back-end development student 💻.</p>
 
 ###
 
